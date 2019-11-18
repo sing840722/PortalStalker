@@ -7,6 +7,7 @@
 * [Gameplay](#gameplay)
 * [Download and Play](#download-and-play)
 * [Run the Project](#run-the-project)
+* [Reference for Assets](#reference-for-assets)
 * [Credit](#credit)
 
 ## Introduction
@@ -38,13 +39,22 @@ Gameplay Instructions
 * Space - Jump
 
 ## Run the Project
-`*This project is created using UE4.16`
+`*This project is created using UE4.16` 
+
+`*This is not the most updated verison and it is only demonstrating the portal feature`
 
 1. Clone this git repository https://github.com/sing840722/XProject.git
 2. Open `XProject.uproject`
 3. Missing Brainslol Modules `Click Yes` to rebuild them
 4. Wait for the build
 5. Press the Play button on the top of the editor
+
+## Reference for Assets
+* Knife `https://sketchfab.com/models/a355685c0d7940c49c1694f94602dce6`
+* Basement `https://sketchfab.com/models/20b1fed375104cd7bebb2db7cdaf0f0c`
+* House `https://sketchfab.com/models/7b946588ef2947c782bd6999100429b5`
+* Drawing Room `https://sketchfab.com/models/feb9ad17e042418c8e759b81e3b2e5d7`
+* Hedge texture `https://www.sketchuptextureclub.com/public/texture/0031-green-hedge-texture-seamless.jpg`
 
 ## Credit
 Manish Juneja
